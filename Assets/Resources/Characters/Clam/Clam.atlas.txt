@@ -1,0 +1,103 @@
+
+Clam.png
+size: 1547,1896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-1
+  rotate: true
+  xy: 1026, 1510
+  size: 384, 478
+  orig: 386, 481
+  offset: 1, 1
+  index: -1
+-2
+  rotate: false
+  xy: 642, 1640
+  size: 382, 254
+  orig: 384, 257
+  offset: 1, 2
+  index: -1
+-3
+  rotate: false
+  xy: 2, 1176
+  size: 1482, 332
+  orig: 1482, 332
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 719
+  size: 455, 1419
+  orig: 455, 1419
+  offset: 0, 0
+  index: -1
+Eye left
+  rotate: false
+  xy: 102, 1853
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+Eye right
+  rotate: false
+  xy: 156, 1853
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+Right teeth
+  rotate: true
+  xy: 210, 1739
+  size: 155, 210
+  orig: 155, 210
+  offset: 0, 0
+  index: -1
+Teeth left
+  rotate: true
+  xy: 422, 1739
+  size: 155, 218
+  orig: 155, 218
+  offset: 0, 0
+  index: -1
+Tentacle back left
+  rotate: true
+  xy: 748, 2
+  size: 715, 797
+  orig: 715, 797
+  offset: 0, 0
+  index: -1
+Tentacle back right
+  rotate: true
+  xy: 2, 13
+  size: 704, 744
+  orig: 704, 744
+  offset: 0, 0
+  index: -1
+lefr wink
+  rotate: false
+  xy: 2, 1862
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+right wink
+  rotate: false
+  xy: 52, 1862
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+
+Clam2.png
+size: 1896,1373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body front
+  rotate: false
+  xy: 2, 2
+  size: 1892, 1369
+  orig: 1892, 1369
+  offset: 0, 0
+  index: -1

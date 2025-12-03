@@ -1,0 +1,398 @@
+
+Char_Omarall_crop_beta.png
+size: 3996,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb
+  rotate: false
+  xy: 1473, 585
+  size: 419, 444
+  orig: 419, 444
+  offset: 0, 0
+  index: -1
+Freezer
+  rotate: false
+  xy: 2299, 627
+  size: 332, 402
+  orig: 332, 402
+  offset: 0, 0
+  index: -1
+Harpoon
+  rotate: true
+  xy: 2279, 78
+  size: 401, 396
+  orig: 401, 396
+  offset: 0, 0
+  index: -1
+Knife
+  rotate: true
+  xy: 2, 5
+  size: 273, 301
+  orig: 273, 301
+  offset: 0, 0
+  index: -1
+Mine
+  rotate: true
+  xy: 1639, 28
+  size: 433, 232
+  orig: 433, 232
+  offset: 0, 0
+  index: -1
+Needle
+  rotate: false
+  xy: 1894, 598
+  size: 403, 431
+  orig: 403, 431
+  offset: 0, 0
+  index: -1
+Paddle
+  rotate: true
+  xy: 1873, 55
+  size: 406, 404
+  orig: 406, 404
+  offset: 0, 0
+  index: -1
+Shocker
+  rotate: false
+  xy: 1274, 3
+  size: 363, 449
+  orig: 363, 449
+  offset: 0, 0
+  index: -1
+Trident
+  rotate: false
+  xy: 2677, 96
+  size: 357, 389
+  orig: 357, 389
+  offset: 0, 0
+  index: -1
+Tube
+  rotate: false
+  xy: 3617, 674
+  size: 377, 355
+  orig: 377, 355
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 969, 3
+  size: 303, 437
+  orig: 303, 437
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 2313, 481
+  size: 96, 144
+  orig: 96, 144
+  offset: 0, 0
+  index: -1
+body_idle
+  rotate: false
+  xy: 691, 35
+  size: 226, 243
+  orig: 226, 243
+  offset: 0, 0
+  index: -1
+body_walk
+  rotate: false
+  xy: 3533, 10
+  size: 236, 291
+  orig: 236, 291
+  offset: 0, 0
+  index: -1
+bottle_green
+  rotate: false
+  xy: 3036, 141
+  size: 318, 382
+  orig: 318, 382
+  offset: 0, 0
+  index: -1
+bottle_orange
+  rotate: false
+  xy: 3299, 649
+  size: 316, 380
+  orig: 316, 380
+  offset: 0, 0
+  index: -1
+bottle_red
+  rotate: false
+  xy: 2979, 647
+  size: 318, 382
+  orig: 318, 382
+  offset: 0, 0
+  index: -1
+hand_L_1
+  rotate: false
+  xy: 3087, 542
+  size: 165, 103
+  orig: 165, 103
+  offset: 0, 0
+  index: -1
+hand_L_1_idle
+  rotate: false
+  xy: 3254, 544
+  size: 162, 101
+  orig: 162, 101
+  offset: 0, 0
+  index: -1
+hand_L_2
+  rotate: true
+  xy: 1919, 466
+  size: 130, 223
+  orig: 130, 223
+  offset: 0, 0
+  index: -1
+hand_L_2_idle
+  rotate: false
+  xy: 3771, 142
+  size: 215, 159
+  orig: 215, 159
+  offset: 0, 0
+  index: -1
+hand_R_1
+  rotate: true
+  xy: 2691, 517
+  size: 112, 145
+  orig: 112, 145
+  offset: 0, 0
+  index: -1
+hand_R_1_idle
+  rotate: false
+  xy: 2939, 525
+  size: 146, 104
+  orig: 146, 104
+  offset: 0, 0
+  index: -1
+hand_R_2
+  rotate: false
+  xy: 3356, 303
+  size: 205, 189
+  orig: 205, 189
+  offset: 0, 0
+  index: -1
+hand_R_2_idle
+  rotate: false
+  xy: 1562, 463
+  size: 221, 120
+  orig: 221, 120
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 3617, 303
+  size: 375, 369
+  orig: 375, 369
+  offset: 0, 0
+  index: -1
+head_damage
+  rotate: true
+  xy: 986, 510
+  size: 519, 485
+  orig: 519, 485
+  offset: 0, 0
+  index: -1
+hose_1
+  rotate: true
+  xy: 2411, 484
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+leg_L_1
+  rotate: false
+  xy: 3036, 40
+  size: 155, 99
+  orig: 155, 99
+  offset: 0, 0
+  index: -1
+leg_L_1_idle
+  rotate: false
+  xy: 1785, 463
+  size: 132, 120
+  orig: 132, 120
+  offset: 0, 0
+  index: -1
+leg_L_2
+  rotate: false
+  xy: 3533, 494
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+leg_L_2_idle
+  rotate: false
+  xy: 2362, 4
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+leg_L_3
+  rotate: false
+  xy: 2225, 481
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+leg_L_3_idle
+  rotate: false
+  xy: 2144, 477
+  size: 79, 119
+  orig: 79, 119
+  offset: 0, 0
+  index: -1
+leg_L_4
+  rotate: false
+  xy: 1152, 453
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+leg_L_4_idle
+  rotate: false
+  xy: 1316, 456
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+leg_L_5
+  rotate: false
+  xy: 2870, 13
+  size: 164, 81
+  orig: 164, 81
+  offset: 0, 0
+  index: -1
+leg_L_5_idle
+  rotate: false
+  xy: 2444, 7
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+leg_R_1
+  rotate: true
+  xy: 3193, 43
+  size: 96, 156
+  orig: 96, 156
+  offset: 0, 0
+  index: -1
+leg_R_1_idle
+  rotate: true
+  xy: 3418, 494
+  size: 153, 96
+  orig: 153, 96
+  offset: 0, 0
+  index: -1
+leg_R_2
+  rotate: true
+  xy: 2677, 7
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+leg_R_2_idle
+  rotate: false
+  xy: 2279, 2
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+leg_R_3
+  rotate: true
+  xy: 1473, 459
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+leg_R_3_idle
+  rotate: true
+  xy: 2756, 9
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+leg_R_4
+  rotate: false
+  xy: 2552, 8
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+leg_R_4_idle
+  rotate: false
+  xy: 1234, 454
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+leg_R_5
+  rotate: true
+  xy: 2552, 487
+  size: 138, 137
+  orig: 138, 137
+  offset: 0, 0
+  index: -1
+leg_R_5_idle
+  rotate: false
+  xy: 986, 445
+  size: 164, 63
+  orig: 164, 63
+  offset: 0, 0
+  index: -1
+m_bottle-1
+  rotate: false
+  xy: 305, 35
+  size: 384, 243
+  orig: 384, 243
+  offset: 0, 0
+  index: -1
+m_box-1
+  rotate: true
+  xy: 2, 280
+  size: 749, 609
+  orig: 749, 609
+  offset: 0, 0
+  index: -1
+shotgun
+  rotate: false
+  xy: 2633, 631
+  size: 344, 398
+  orig: 344, 398
+  offset: 0, 0
+  index: -1
+shoulder_idle
+  rotate: true
+  xy: 3533, 571
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+shoulder_walk
+  rotate: true
+  xy: 2838, 523
+  size: 106, 99
+  orig: 106, 101
+  offset: 0, 0
+  index: -1
+splash
+  rotate: true
+  xy: 613, 442
+  size: 587, 371
+  orig: 1913, 991
+  offset: 398, 379
+  index: -1
+splash2
+  rotate: false
+  xy: 613, 280
+  size: 354, 160
+  orig: 1913, 991
+  offset: 943, 150
+  index: -1
+splash3
+  rotate: false
+  xy: 3356, 7
+  size: 175, 294
+  orig: 1913, 991
+  offset: 1097, 548
+  index: -1
